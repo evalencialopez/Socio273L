@@ -1,2 +1,20 @@
-# Socio273L
-Repository for Computational Data Science
+README.md
+This is my first git commit message
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:wq
+
+
