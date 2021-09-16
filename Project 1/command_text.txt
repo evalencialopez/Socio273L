@@ -18,8 +18,9 @@ vim "command_text.txt"
 Then to commit this piece of text:
 
 (escape):wq
+git add "command_text.txt"
 
-git commit -m "I created a new file with the history of all the commands I have run"
+git commit -m "This is an updated version of the command line"
 
 git push 
 
